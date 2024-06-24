@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "24003000000009011",
+      "name": "resolveIssue-service",
+      "domain": {
+        "id": "10082980932",
+        "name": "resolveissue-service-856219410.development"
+      },
+      "timezone": "Asia/Kolkata",
+      "env": [
+        {
+          "idx": 1,
+          "id": "856219410",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}
